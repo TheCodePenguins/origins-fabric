@@ -1,0 +1,1 @@
+player.onTellCommand("orb", function)(get origins:orb_of_origin)
